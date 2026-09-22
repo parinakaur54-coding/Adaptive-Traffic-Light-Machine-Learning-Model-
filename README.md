@@ -2,9 +2,9 @@
 
 ## 📂 Project Files
 
-* 📄 [Article](Article)
-* 📊 [Presentation (PPT)](PPT)
-* 💻 [Python Code](Python%20code)
+* 📄 [Article](Article.pdf)
+* 📊 [Presentation (PPT)](PPT.pptx)
+* 💻 [Python Code](Python%20code.ipynb)
 
 ---
 
