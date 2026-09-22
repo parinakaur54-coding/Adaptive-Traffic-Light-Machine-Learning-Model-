@@ -3,8 +3,8 @@
 ## 📂 Project Files
 
 * 📄 [Article](Article.pdf)
-* 📊 [Presentation (PPT)](PPT.pptx)
-* 💻 [Python Code](Python%20code.ipynb)
+* 📊 [Presentation (PPT)](ppt.pptx)
+* 💻 [Python Code](Pythoncode.ipynb)
 
 ---
 
