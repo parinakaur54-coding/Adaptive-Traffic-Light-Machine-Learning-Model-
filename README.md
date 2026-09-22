@@ -3,7 +3,7 @@
 ## 📂 Project Files
 
 * 📄 [Article](Article.pdf)
-* 📊 [Presentation (PPT)](ppt.pptx)
+* 📊 [Presentation (PPT)](Adaptive-Traffic-Signal-Optimization-Using-YOLOv26-Object-Detection-and-PCE-Weighted-Fuzzy-Logic%20%281%29.pptx.pptx)
 * 💻 [Python Code](Pythoncode.ipynb)
 
 ---
