@@ -181,7 +181,7 @@ The resulting green-light duration is adjusted according to the detected traffic
 
 ---
 
-## 🛠️ 5. Skills
+## 5. Skills
 
 ### 🐍 Programming & Data Analysis
 
