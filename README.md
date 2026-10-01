@@ -23,6 +23,8 @@
    * [Business Recommendation](#business-recommendation)
 7. [Next Steps](#7-next-steps)
 
+---
+
 ## 1. Title
 
 **Adaptive Traffic Signal Optimization Using YOLOv26 Object Detection and PCE-Weighted Fuzzy Logic**
