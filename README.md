@@ -181,49 +181,46 @@ The resulting green-light duration is adjusted according to the detected traffic
 
 ---
 
-## 5. Skills
+## 🛠️ 5. Skills
 
-### Programming & Data Analysis
+### 🐍 Programming & Data Analysis
 
-* Python
-* Pandas
-* NumPy
-* Data preprocessing
-* Exploratory Data Analysis
-* Data visualization
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Data Preprocessing](https://img.shields.io/badge/Data_Preprocessing-2E8B57?style=for-the-badge)
+![EDA](https://img.shields.io/badge/Exploratory_Data_Analysis-20B2AA?style=for-the-badge)
+![Data Visualization](https://img.shields.io/badge/Data_Visualization-4682B4?style=for-the-badge)
 
-### Machine Learning & Computer Vision
+### 🤖 Machine Learning & Computer Vision
 
-* YOLO object detection
-* Model training
-* Model comparison
-* Object detection evaluation
-* Vehicle tracking
-* OpenCV
-* ByteTrack
+![YOLO](https://img.shields.io/badge/YOLO_Object_Detection-00FFFF?style=for-the-badge&logoColor=black)
+![Model Training](https://img.shields.io/badge/Model_Training-6A5ACD?style=for-the-badge)
+![Model Comparison](https://img.shields.io/badge/Model_Comparison-9370DB?style=for-the-badge)
+![Object Detection Evaluation](https://img.shields.io/badge/Object_Detection_Evaluation-8A2BE2?style=for-the-badge)
+![Vehicle Tracking](https://img.shields.io/badge/Vehicle_Tracking-FF8C00?style=for-the-badge)
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
+![ByteTrack](https://img.shields.io/badge/ByteTrack-FF6347?style=for-the-badge)
 
-### Intelligent Systems
+### 🧠 Intelligent Systems
 
-* Fuzzy logic
-* Mamdani fuzzy controller
-* Fuzzification
-* Rule-based inference
-* Defuzzification
-* Passenger Car Equivalent (PCE)
+![Fuzzy Logic](https://img.shields.io/badge/Fuzzy_Logic-008080?style=for-the-badge)
+![Mamdani Controller](https://img.shields.io/badge/Mamdani_Fuzzy_Controller-20B2AA?style=for-the-badge)
+![Fuzzification](https://img.shields.io/badge/Fuzzification-4682B4?style=for-the-badge)
+![Rule Based Inference](https://img.shields.io/badge/Rule_Based_Inference-6A5ACD?style=for-the-badge)
+![Defuzzification](https://img.shields.io/badge/Defuzzification-9370DB?style=for-the-badge)
+![PCE](https://img.shields.io/badge/Passenger_Car_Equivalent-DAA520?style=for-the-badge)
 
-### Tools & Libraries
+### 💻 Tools & Libraries
 
-* Google Colab
-* Jupyter Notebook
-* Roboflow
-* Ultralytics
-* PyTorch
-* OpenCV
-* Scikit-fuzzy
-* Pandas
-* NumPy
-* Matplotlib
-* Seaborn
+![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
+![Jupyter Notebook](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Roboflow](https://img.shields.io/badge/Roboflow-6706CE?style=for-the-badge)
+![Ultralytics](https://img.shields.io/badge/Ultralytics-111F68?style=for-the-badge)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-fuzzy](https://img.shields.io/badge/Scikit--fuzzy-2E8B57?style=for-the-badge)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)
+![Seaborn](https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge)
 
 ---
 
