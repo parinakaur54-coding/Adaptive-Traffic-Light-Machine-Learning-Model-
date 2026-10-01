@@ -13,7 +13,7 @@
 2. [Executive Summary](#2-executive-summary)
 3. [Business Problem](#3-business-problem)
 4. [Methodology](#4-methodology)
-5. [Skills](#5-skills)
+5. [Skills](#5-Skills)
 6. [Results & Business Recommendation](#6-results--business-recommendation)
 
    * [Graphs](#graphs)
