@@ -213,7 +213,7 @@ The resulting green-light duration is adjusted according to the detected traffic
 ## 6. Results & Business Recommendation
 
 ## Graphs 
-![Dashboard Screenshot](screenshots/dashboard.png)
+![Dashboard Screenshot](graphs.png)
 
 ### YOLO Model Comparison
 
